@@ -1,24 +1,22 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Xiaowei (Elliott) Zhang
+title: Welcome to my homepage
+description: My name is : Xiaowei (Elliott) Zhang. I’m currently a Ph.D. candidate of Information Systems in Department of Management Science and Engineering, Tsinghua University.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Digital Platforms: Sharing Economy, E-commerce
+  - Artificial Intelligence
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: About Me
     url: /about
+  - title: Research
+    url: /research
+  - title: Talks
+    url: /talks
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+email: xw-zhang21@mails.tsinghua.edu.cn
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
