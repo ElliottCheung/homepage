@@ -12,6 +12,12 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Research
+    url: /
+  - title: Talks
+    url: /
+  - title: Teaching
+    url: /
   - title: About
     url: /about
   - title: Contact
