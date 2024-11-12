@@ -11,6 +11,6 @@ permalink: /about/
 
 # About Me
 
-Hey, this is Xiaowei (Elliott) Zhang! I'm currently a $4^{\text{th}}$ Ph.D. candidate on Information Systems at School of Economics and Management, Tsinghua University, advised by Prof. Zhijie Lin.
+Hey, this is Xiaowei (Elliott) Zhang! I'm currently a $4^{\text{th}}$-year Ph.D. candidate on Information Systems at School of Economics and Management, Tsinghua University, advised by Prof. Zhijie Lin.
 
 My research centers around digital platforms, sharing economy, artificial intelligence, etc.
