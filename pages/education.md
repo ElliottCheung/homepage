@@ -4,7 +4,7 @@ menu: false
 date: '2020-02-27 01:53:59'
 title: About
 description: Some description.
-permalink: /about/
+permalink: /education/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Xiaowei (Elliott) Zhang" width="200">
