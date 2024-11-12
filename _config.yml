@@ -12,6 +12,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: About
+    url: /about
   - title: Research
     url: /
   - title: Education
@@ -20,8 +22,6 @@ menu:
     url: /
   - title: Teaching
     url: /
-  - title: About
-    url: /about
   - title: Contact
     url: /contact
   # - title: Feed
