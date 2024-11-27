@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Xiaowei (Elliott) Zhang" width="20">
+<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Xiaowei (Elliott) Zhang" width="100">
 
 # About Me
 
